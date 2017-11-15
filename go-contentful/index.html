@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link type="text/css" rel="stylesheet" href="style.css">
+  <link href='http://io.vtex.com.br/fonts/fabriga/stylesheet.css' rel='stylesheet' type='text/css'>
+  <script src="index.js"></script>
+  <title>Go Contentful</title>
+</head>
+
+<body>
+  <div class="main" onmouseleave="resetButtonText()">
+    <p>
+      Drag
+      <a id="btn" draggable="true" onmousedown="adaptTextToBookmarklet()" ondrag="resetButtonText()" href="javascript:(
+        function() {
+          if (
+            typeof vtexHelp != 'undefined' &&
+            vtexHelp.contentId !== 'undefined' &&
+            vtexHelp.contentId.length > 0
+          ) {
+            window.open(
+              `https://app.contentful.com/spaces/alneenqid6w5/entries/${vtexHelp.contentId}`,
+              '_blank',
+            )
+          }
+        }
+      )()">this button</a> to your bookmarks toolbar
+    </p>
+  </div>
+</body>
+
+</html>
