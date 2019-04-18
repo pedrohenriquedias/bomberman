@@ -12,7 +12,7 @@ A importação das especificações via planilha é feita em duas áreas distint
 
 Nesta área é possível realizar tanto a importação quanto a exportação das especificações. Veja abaixo como realizar cada uma dessas ações.
 
-## Como Exportar Especificações de SKU ou Produto
+## Exportar Especificações de SKU ou Produto
 
 1. Acesse o módulo Catalogo;
 2. Acesse a aba Importação e Exportação;
