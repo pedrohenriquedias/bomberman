@@ -10,7 +10,7 @@ No momento de cadastro de uma transportadora, é preciso incluir o [tipo de entr
 
 ### Solução
 
-Caso você queira que todas as transportadoras sejam exibidas, você deve cadastrá-las no módulo de Estoque & entrega como transportadoras com **tipos de entrega diferentes**.
+Caso você deseje que todas as transportadoras sejam exibidas, você deve cadastrá-las no módulo de Estoque & entrega como transportadoras com **tipos de entrega diferentes**.
 
 ## Transportadora não atende o endereço informado 
 
