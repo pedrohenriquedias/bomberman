@@ -1,7 +1,7 @@
 [//]: # (Title: Feed v3 do Gerenciamento de pedidos)
 
 <div class="alert alert-danger">
-Por conta de ajustes necessários, a configuração do Feed v3 se encontra temporariamente indisponível.
+Por conta de ajustes necessários, a configuração do Feed v3 se encontra temporariamente indisponível. Se você já realizou a configuração do Feed v3 num momento anterior, sua configuração não será afetada.
 </div>
 
 A nova versão do feed permite mais agilidade à gestão dos eventos de pedidos da sua loja por meio de filtros em cada chamada, tempo de espera para exibição de um evento depois da sua consulta, entre outras vantagens. 
