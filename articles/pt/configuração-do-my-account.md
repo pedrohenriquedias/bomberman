@@ -5,7 +5,7 @@ Isso quer dizer que o My Account já está disponível para a sua loja realizar 
 [https://{{AccountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile](https://{{AccountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile)
 
 <div class="alert alert-warning">
-<strong>A instalação do app My Account será realizada inicialmente em um workspace de teste</strong> para impedir impactos na customização da sua loja ainda sem os ajustes necessários. Será então necessária a adequação do estilo da nova página e a aprovação da loja para que a VTEX realize a migração do app para produção. 
+<strong>Inicialmente, a instalação do app My Account é realizada em um [workspace](https://help.vtex.com/tutorial/workspace-visao-geral--56BLo7BI6sCoz6G3N7sYTi) de teste</strong> para impedir impactos na customização da sua loja ainda sem os ajustes necessários. Será então necessária a adequação do estilo da nova página e a aprovação da loja para que a VTEX realize a migração do app para produção. 
 </div>
 
 A migração do aplicativo para produção deve ser solicitada através da [abertura de um chamado](https://support.vtex.com/hc/pt-br/requests) para o time de suporte da VTEX.   
