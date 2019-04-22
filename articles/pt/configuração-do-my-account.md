@@ -1,6 +1,6 @@
-O novo [My Account](link para tutorial sobre como funciona o My Account) já está instalado em todas as contas VTEX, permitindo testes e ajustes na customização da página antes da migração massiva do aplicativo. 
+O novo [My Account](link para tutorial sobre como funciona o My Account) já está instalado em todas as contas VTEX em um ambiente teste, permitindo ajustes na nova página sem impactos na experiência do usuário. 
 
-Isso quer dizer que as funcionalidades do novo My Account já estão disponíveis para a sua loja e podem ser acessadas através do link abaixo:
+Isso quer dizer que o My Account já está disponível para a sua loja realizar as customizações necessárias, antes da migração massiva do aplicativo para produção, através do link abaixo:
 
 [https://{{AccountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile](https://{{AccountName}}.myvtex.com/_secure/account?workspace=myaccounttest#/profile)
 
